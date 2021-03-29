@@ -1,5 +1,6 @@
 h1 {
     color : red;
+    font-size: 3em;
 }
 h2 {
     color: greenyellow;
@@ -11,8 +12,32 @@ body {
 
 #absatz {
     color: yellow;
+    background-color: red;
 }
 
 #absatz {
     color: blue;
+    text-decoration: underline;
+}
+
+#ipsum {
+    font-size: 1.5em;
+}
+
+img {
+    width: 48vw;
+    height: auto;
+}
+
+#bild2 {
+    height: 20em;
+    width: auto;
+}
+
+.gruen {
+    color: rgb(3, 65, 3);
+}
+
+.big {
+    font-size: 2em;
 }
